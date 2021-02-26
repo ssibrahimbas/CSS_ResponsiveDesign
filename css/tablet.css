@@ -1,0 +1,9 @@
+.products .product {
+    width: 50%;
+}
+.btn-s {
+    margin-top: 1rem;
+    padding: 0.6rem 1.7rem;
+    border-radius: 5px;
+    letter-spacing: 0.5px;
+} 

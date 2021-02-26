@@ -1,0 +1,27 @@
+#navbar {
+    flex-direction: column;
+    padding-top: 0.6rem;
+    padding-bottom: 0.6rem;
+    overflow: hidden;
+    height: 85px;
+}
+#software .items {
+    flex-direction: column;
+}
+ #software .items .item {
+    width: 100%;
+} 
+
+/* Shopping */
+.products {
+    flex-direction: column;
+}
+.products .product {
+    width: 100%;
+}
+.btn-s {
+    margin-top: 1rem;
+    padding: 0.6rem 1.7rem;
+    border-radius: 5px;
+    letter-spacing: 0.5px;
+} 

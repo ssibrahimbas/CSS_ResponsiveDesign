@@ -1,0 +1,187 @@
+/* Text */
+.text-center {
+    text-align: center;
+}
+
+.heading-s {
+    font-size: 1.25rem;
+}
+.heading-m {
+    font-size: 1.5rem;
+}
+.heading-b {
+    font-size: 1.75rem;
+}
+
+/* Colors */
+.bg-dark-blue {
+    background: #062e51;
+}
+.bg-light-red {
+    background: #336ea2;
+}
+
+/* Buttons */
+.btn {
+    margin-top: 1.25rem;
+    padding: 0.8rem 3rem;
+    border-radius: 9.7px;
+    letter-spacing: 0.8px;
+}
+.btn-s {
+    margin-top: 1.25rem;
+    padding: 0.6rem 2rem;
+    border-radius: 9.7px;
+    letter-spacing: 0.8px;
+}
+.btn-primary {
+    background: #336ea2;
+}
+.btn-primary:hover {
+    color: #336ea2;
+    background: white;
+    border: 0.5px solid #336ea2;
+}
+.btn-red {
+    background: red;
+}
+.btn-red:hover {
+    color: red;
+    background: white;
+    border: 0.5px solid red;
+}
+.btn-green {
+    color: white;
+    background: green;
+    border: 0.5px solid white;
+    opacity: 0.8;
+}
+.btn-green:hover {
+    color: green;
+    background: white;
+    border: 0.5px solid green;
+    opacity: 1;
+}
+.btn-block {
+    width: 100%;
+    text-align: center;
+}
+
+/* Container */
+.container {
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+/* Opacity */
+.opacity-s {
+    opacity: 0.4;
+}
+.opacity-m {
+    opacity: 0.6;
+}
+.opacity-b {
+    opacity: 0.8;
+}
+
+/* Letter-Spacing */
+.letterspacing-s {
+    letter-spacing: 1px;
+}
+.letterspacing-m {
+    letter-spacing: 1.2px;
+}
+.letterspacing-b {
+    letter-spacing: 1.4px;
+}
+
+/* Font-Size */
+.fontsize-us {
+    font-size: 0.4rem;
+}
+.fontsize-s {
+    font-size: 0.6rem;
+}
+.fontsize-sm {
+    font-size: 0.8rem;
+}
+.fontsize-m {
+    font-size: 1rem;
+}
+.fontsize-bm {
+    font-size: 1.2rem;
+}
+.fontsize-b {
+    font-size: 1.4rem;
+}
+.fontsize-ub {
+    font-size: 1.6rem;
+}
+
+/* Font-Weight */
+.fontweight-s {
+    font-weight: 400;
+}
+.fontweight-m {
+    font-weight: 600;
+}
+.fontweight-b {
+    font-weight: 800;
+}
+
+/* Margin Top */
+.margint-s {
+    margin-top: 0.25rem;
+}
+.margint-m {
+    margin-top: 0.5rem;
+}
+.margint-b {
+    margin-top: 0.75rem;
+}
+.margint-f {
+    margin-top: 1.5rem;
+}
+
+/* Margin Bottom */
+.marginb-s {
+    margin-bottom: 0.25rem;
+}
+.marginb-m {
+    margin-bottom: 0.5rem;
+}
+.marginb-b {
+    margin-bottom: 0.75rem;
+}
+
+/* Width */
+.width-s {
+    width: 25%;
+}
+.width-m {
+    width: 50%;
+}
+.width-b {
+    width: 75%;
+}
+.width-n {
+    width: 90%;
+}
+.width-f {
+    width: 100%;
+}
+
+/* Forms */
+.form-group {
+    padding: 1rem 0;
+}
+.form-group label {
+    display: block;
+}
+.form-control {
+    width: 100%;
+    padding: 0.5rem;
+    font-size: 1rem;
+    resize: none;
+    border-radius: 5px;
+}
